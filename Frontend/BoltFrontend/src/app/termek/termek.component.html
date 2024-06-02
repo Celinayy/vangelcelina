@@ -1,0 +1,40 @@
+<h1 mat-dialog-title>{{termek.nev}}</h1>
+<div mat-dialog-content>
+    
+    <mat-form-field>
+        <mat-label>Név</mat-label>
+        <input type="text"  matInput placeholder="pl.: alma" [(ngModel)]="termek.nev"/>
+    </mat-form-field>
+    <br>
+
+    <mat-form-field>
+        <mat-label>Ár</mat-label>
+        <input type="number"  matInput placeholder="pl.: 100" [(ngModel)]="termek.ar"/>
+        <span matSuffix>&nbsp;.-Ft</span>
+    </mat-form-field>
+    <br>
+
+    <mat-form-field>
+        <mat-label>Kedvezmény</mat-label>
+        <input type="number" min="0" max="100" matInput placeholder="pl.: 10%" 
+            [value]="termek.kedvezmeny*100"
+            (change)="kedvezmenyMegvaltozas($event)"/>
+        <span matSuffix>&nbsp;%</span>
+    </mat-form-field>
+    <br>
+
+    <mat-form-field>
+        <mat-label>Leírás</mat-label>
+        <textarea  matInput placeholder="valami szöveg" [(ngModel)]="termek.leiras"></textarea>
+    </mat-form-field>
+    <br>
+
+</div>
+
+<div mat-dialog-actions>
+    <button mat-raised-button mat-dialog-close>Mégse</button>
+    <button mat-raised-button 
+        color="primary" 
+        cdkFocusInitial 
+        (click)="mentes()">Mentés</button>
+</div>

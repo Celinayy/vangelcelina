@@ -1,0 +1,47 @@
+<h1 class="text-center">Regisztráció</h1>
+<div class="form">
+  <div class="data">
+    <label for="journey">Utazás:</label>
+    <select name="journeyId" id="journey" [(ngModel)]="journeyId">
+      <option [ngValue]="journeyShort.id" *ngFor="let journeyShort of journeyShorts">{{journeyShort.destination}}</option>
+    </select>
+  </div>
+
+  <div class="data">
+    <label for="name">Az Ön neve:</label>
+    <input [(ngModel)]="name" type="text" id="name" name="name" />
+  </div>
+
+  <div class="data">
+    <label for="email">Az Ön e-mail címe:</label>
+    <input [(ngModel)]="email" type="text" id="email" name="email" />
+  </div>
+
+  <div class="data">
+    <label for="numberOfParticipants">Résztvevők száma:</label>
+    <input
+      type="number"
+      id="numberOfParticipants"
+      name="numberOfParticipants"
+      [(ngModel)]="numberOfParticipants"
+    />
+  </div>
+  <div class="data">
+    <label for="lastCovidVaccineDate">Utolsó COVID oltásának dátuma:</label>
+    <input type="date" id="lastCovidVaccineDate" name="lastCovidVaccineDate" [(ngModel)]="lastCovidVaccineDate" />
+  </div>
+
+  <div class="data">
+    <input type="checkbox" id="acceptedConditions" name="acceptedConditions" [(ngModel)]="acceptedConditions"/>
+    <label for="acceptedConditions">Felhasználási feltételeket elfogadom</label>
+  </div>
+
+  <div class="data">
+    <input (click)="handleClick()" type="button" value="Küldés" style="margin: 0 220px; width: 160px" />
+  </div>
+
+  <div class="error" *ngIf="errorMessage">
+    <span>{{errorMessage}}</span>
+    <span>x</span>
+  </div>
+</div>

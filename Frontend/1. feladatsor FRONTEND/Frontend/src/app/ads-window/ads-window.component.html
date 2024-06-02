@@ -1,0 +1,32 @@
+<table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+
+  <ng-container matColumnDef="kategoria">
+    <th mat-header-cell *matHeaderCellDef> No. </th>
+    <td mat-cell *matCellDef="let element"> {{element.kategoria}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="leiras">
+    <th mat-header-cell *matHeaderCellDef> Name </th>
+    <td mat-cell *matCellDef="let element"> {{element.leiras}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="hirdetesDatuma">
+    <th mat-header-cell *matHeaderCellDef> Weight </th>
+    <td mat-cell *matCellDef="let element"> {{element.hirdetesDatuma}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="tehermentes">
+    <th mat-header-cell *matHeaderCellDef> Symbol </th>
+    <td mat-cell *matCellDef="let element" [ngStyle]="{color: element.tehermentes ? 'green' : 'red'}"> {{element.tehermentes ? 'Igen' : 'Nem'}} </td>
+  </ng-container>
+
+  <ng-container matColumnDef="kepUrl">
+    <th mat-header-cell *matHeaderCellDef> Symbol </th>
+    <td mat-cell *matCellDef="let element">
+    <img src="{{element.kepUrl}}" style="max-height: 128px;"> </td>
+  </ng-container>
+
+  <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+  <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+</table>
+

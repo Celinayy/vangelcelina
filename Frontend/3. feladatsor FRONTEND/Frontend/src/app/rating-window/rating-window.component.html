@@ -1,0 +1,45 @@
+
+    <h1 class="text-center">Kilátók értékelése</h1>
+    <div class="form">
+
+        <div class="data">
+            <label for="viewpoint">Kilátó:</label>
+            <select name="viewpointId" id="viewpoint" [(ngModel)]="viewpoint">
+                <option [value]="null">Kérem válasszon</option>
+                <option *ngFor="let viewpoint of viewpoints" [value]="null">{{viewpoint.viewpointName}}</option>
+            </select>
+        </div>
+
+        <div class="data">
+            <label for="email">Az Ön e-mail címe:</label>
+            <input type="text" id="email" name="email" [(ngModel)]="email">
+        </div>
+
+        <div class="data">
+            <label for="rating">Értékelés:</label>
+            <input type="range" min="1" max="10" id="rating" name="rating" [(ngModel)]="rating">
+        </div>
+
+        <div class="data">
+            <label for="rating">Megjegyzsés:</label>
+            <textarea id="comment" name="comment" rows="3" [(ngModel)]="comment"></textarea>
+        </div>
+
+        <div class="data">
+            <input type="checkbox" id="acceptedConditions" name="acceptedConditions">
+            <label for="acceptedConditions">Felhasználási feltételeket elfogadom</label>
+        </div>
+
+        <div class="data">
+            <input type="button" value="Küldés" (click)="handleClick()" style="margin: 0 220px; width: 160px;">
+        </div>
+
+
+        <div class="error" *ngIf="this.hiba != ''">
+            <span>{{this.hiba}}</span>
+            <span>x</span>
+        </div>
+    </div>
+
+
+

@@ -1,0 +1,15 @@
+<div *ngIf="this.backend.token == ''">
+    <label for="email">E-mail:</label>
+    <input type="text" name="email" id="email"
+        [(ngModel)]="email" />
+
+    <label for="password">Jelszó:</label>
+    <input type="password" name="password" id="password"
+            [(ngModel)]="password" />
+
+    <button color="primary" mat-raised-button
+        (click)="Belepes()">
+        Belépés
+    </button>
+
+</div>

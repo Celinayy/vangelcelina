@@ -1,0 +1,54 @@
+<table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+  <!-- Position Column -->
+  <ng-container matColumnDef="destination">
+    <th mat-header-cell *matHeaderCellDef>Ország</th>
+    <td mat-cell *matCellDef="let element">{{ element.country }}</td>
+  </ng-container>
+
+  <!-- Name Column -->
+  <ng-container matColumnDef="vehicle">
+    <th mat-header-cell *matHeaderCellDef>Utazási mód</th>
+    <td mat-cell *matCellDef="let element">{{ element.vehicle.type }}</td>
+  </ng-container>
+
+  <!-- Weight Column -->
+  <ng-container matColumnDef="departure">
+    <th mat-header-cell *matHeaderCellDef>Indulás</th>
+    <td mat-cell *matCellDef="let element">{{ element.departure }}</td>
+  </ng-container>
+
+  <!-- Weight Column -->
+  <ng-container matColumnDef="numberOfParticipants">
+    <th mat-header-cell *matHeaderCellDef>Max. létszám</th>
+    <td mat-cell *matCellDef="let element">{{ element.capacity }}</td>
+  </ng-container>
+
+  <!-- Symbol Column -->
+  <ng-container matColumnDef="description">
+    <th mat-header-cell *matHeaderCellDef>Leírás</th>
+    <td mat-cell *matCellDef="let element">
+      {{ element.description }}
+      <button
+        mat-button
+        color="warn"
+        [routerLink]="'/registration/'"
+      >
+        Érdekel
+      </button>
+    </td>
+  </ng-container>
+
+  <ng-container matColumnDef="pictureUrl">
+    <th mat-header-cell *matHeaderCellDef>Fénykép</th>
+    <td mat-cell *matCellDef="let element">
+      <img
+        style="max-width: 128px"
+        src="{{ element.pictureUrl }}"
+        alt="{{ element.destination }}"
+      />
+    </td>
+  </ng-container>
+
+  <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+  <tr mat-row *matRowDef="let row; columns: displayedColumns"></tr>
+</table>
