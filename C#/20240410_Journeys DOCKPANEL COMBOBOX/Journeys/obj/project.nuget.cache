@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ditqo2z86ptssn8+Onmojhi49vjG2MXGfzPd2VgrGDDbWDSnDIXjo+q9r8jPLhAxv9bPLVgJexYX/npNNJCoiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Celinay\\Desktop\\C#\\20240410_Journeys\\Journeys\\Journeys.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Celinay\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,80 @@
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\JourneysGUI.exe
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\JourneysGUI.deps.json
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\JourneysGUI.runtimeconfig.json
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\JourneysGUI.dll
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\JourneysGUI.pdb
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Humanizer.dll
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\MySqlConnector.dll
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\JourneysGUI.csproj.AssemblyReference.cache
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\MainWindow.g.cs
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\App.g.cs
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\JourneysGUI_MarkupCompile.cache
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\JourneysGUI_MarkupCompile.lref
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\MainWindow.baml
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\JourneysGUI.g.resources
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\JourneysGUI.GeneratedMSBuildEditorConfig.editorconfig
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\JourneysGUI.AssemblyInfoInputs.cache
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\JourneysGUI.AssemblyInfo.cs
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\JourneysGUI.csproj.CoreCompileInputs.cache
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\Journeys.A821119F.Up2Date
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\JourneysGUI.dll
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\refint\JourneysGUI.dll
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\JourneysGUI.pdb
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\JourneysGUI.genruntimeconfig.cache
+T:\slo\13F C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\ref\JourneysGUI.dll
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\JourneysGUI.exe
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\JourneysGUI.deps.json
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\JourneysGUI.runtimeconfig.json
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\JourneysGUI.dll
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\JourneysGUI.pdb
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\MySqlConnector.dll
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\bin\Debug\net7.0-windows\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\JourneysGUI.csproj.AssemblyReference.cache
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\JourneysGUI_MarkupCompile.cache
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\JourneysGUI_MarkupCompile.lref
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\JourneysGUI.g.resources
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\JourneysGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\JourneysGUI.AssemblyInfoInputs.cache
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\JourneysGUI.AssemblyInfo.cs
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\JourneysGUI.csproj.CoreCompileInputs.cache
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\JourneysGUI.csproj.CopyComplete
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\JourneysGUI.dll
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\refint\JourneysGUI.dll
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\JourneysGUI.pdb
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\JourneysGUI.genruntimeconfig.cache
+C:\Users\Celinay\Desktop\C#\20240410_Journeys\JourneysGUI\obj\Debug\net7.0-windows\ref\JourneysGUI.dll

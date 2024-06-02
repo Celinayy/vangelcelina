@@ -1,0 +1,32 @@
+C:\Users\Celinay\Desktop\Hianyzasok_2024\Hianyzasok_2024\bin\Debug\net7.0\Hianyzasok_2024.exe
+C:\Users\Celinay\Desktop\Hianyzasok_2024\Hianyzasok_2024\bin\Debug\net7.0\szeptember.csv
+C:\Users\Celinay\Desktop\Hianyzasok_2024\Hianyzasok_2024\bin\Debug\net7.0\Hianyzasok_2024.deps.json
+C:\Users\Celinay\Desktop\Hianyzasok_2024\Hianyzasok_2024\bin\Debug\net7.0\Hianyzasok_2024.runtimeconfig.json
+C:\Users\Celinay\Desktop\Hianyzasok_2024\Hianyzasok_2024\bin\Debug\net7.0\Hianyzasok_2024.dll
+C:\Users\Celinay\Desktop\Hianyzasok_2024\Hianyzasok_2024\bin\Debug\net7.0\Hianyzasok_2024.pdb
+C:\Users\Celinay\Desktop\Hianyzasok_2024\Hianyzasok_2024\obj\Debug\net7.0\Hianyzasok_2024.csproj.AssemblyReference.cache
+C:\Users\Celinay\Desktop\Hianyzasok_2024\Hianyzasok_2024\obj\Debug\net7.0\Hianyzasok_2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Celinay\Desktop\Hianyzasok_2024\Hianyzasok_2024\obj\Debug\net7.0\Hianyzasok_2024.AssemblyInfoInputs.cache
+C:\Users\Celinay\Desktop\Hianyzasok_2024\Hianyzasok_2024\obj\Debug\net7.0\Hianyzasok_2024.AssemblyInfo.cs
+C:\Users\Celinay\Desktop\Hianyzasok_2024\Hianyzasok_2024\obj\Debug\net7.0\Hianyzasok_2024.csproj.CoreCompileInputs.cache
+C:\Users\Celinay\Desktop\Hianyzasok_2024\Hianyzasok_2024\obj\Debug\net7.0\Hianyzasok_2024.dll
+C:\Users\Celinay\Desktop\Hianyzasok_2024\Hianyzasok_2024\obj\Debug\net7.0\refint\Hianyzasok_2024.dll
+C:\Users\Celinay\Desktop\Hianyzasok_2024\Hianyzasok_2024\obj\Debug\net7.0\Hianyzasok_2024.pdb
+C:\Users\Celinay\Desktop\Hianyzasok_2024\Hianyzasok_2024\obj\Debug\net7.0\Hianyzasok_2024.genruntimeconfig.cache
+C:\Users\Celinay\Desktop\Hianyzasok_2024\Hianyzasok_2024\obj\Debug\net7.0\ref\Hianyzasok_2024.dll
+C:\Users\Celinay\Desktop\Lelle\Saját C#\Hianyzasok_2024\Hianyzasok_2024\bin\Debug\net7.0\Hianyzasok_2024.exe
+C:\Users\Celinay\Desktop\Lelle\Saját C#\Hianyzasok_2024\Hianyzasok_2024\bin\Debug\net7.0\szeptember.csv
+C:\Users\Celinay\Desktop\Lelle\Saját C#\Hianyzasok_2024\Hianyzasok_2024\bin\Debug\net7.0\Hianyzasok_2024.deps.json
+C:\Users\Celinay\Desktop\Lelle\Saját C#\Hianyzasok_2024\Hianyzasok_2024\bin\Debug\net7.0\Hianyzasok_2024.runtimeconfig.json
+C:\Users\Celinay\Desktop\Lelle\Saját C#\Hianyzasok_2024\Hianyzasok_2024\bin\Debug\net7.0\Hianyzasok_2024.dll
+C:\Users\Celinay\Desktop\Lelle\Saját C#\Hianyzasok_2024\Hianyzasok_2024\bin\Debug\net7.0\Hianyzasok_2024.pdb
+C:\Users\Celinay\Desktop\Lelle\Saját C#\Hianyzasok_2024\Hianyzasok_2024\obj\Debug\net7.0\Hianyzasok_2024.csproj.AssemblyReference.cache
+C:\Users\Celinay\Desktop\Lelle\Saját C#\Hianyzasok_2024\Hianyzasok_2024\obj\Debug\net7.0\Hianyzasok_2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Celinay\Desktop\Lelle\Saját C#\Hianyzasok_2024\Hianyzasok_2024\obj\Debug\net7.0\Hianyzasok_2024.AssemblyInfoInputs.cache
+C:\Users\Celinay\Desktop\Lelle\Saját C#\Hianyzasok_2024\Hianyzasok_2024\obj\Debug\net7.0\Hianyzasok_2024.AssemblyInfo.cs
+C:\Users\Celinay\Desktop\Lelle\Saját C#\Hianyzasok_2024\Hianyzasok_2024\obj\Debug\net7.0\Hianyzasok_2024.csproj.CoreCompileInputs.cache
+C:\Users\Celinay\Desktop\Lelle\Saját C#\Hianyzasok_2024\Hianyzasok_2024\obj\Debug\net7.0\Hianyzasok_2024.dll
+C:\Users\Celinay\Desktop\Lelle\Saját C#\Hianyzasok_2024\Hianyzasok_2024\obj\Debug\net7.0\refint\Hianyzasok_2024.dll
+C:\Users\Celinay\Desktop\Lelle\Saját C#\Hianyzasok_2024\Hianyzasok_2024\obj\Debug\net7.0\Hianyzasok_2024.pdb
+C:\Users\Celinay\Desktop\Lelle\Saját C#\Hianyzasok_2024\Hianyzasok_2024\obj\Debug\net7.0\Hianyzasok_2024.genruntimeconfig.cache
+C:\Users\Celinay\Desktop\Lelle\Saját C#\Hianyzasok_2024\Hianyzasok_2024\obj\Debug\net7.0\ref\Hianyzasok_2024.dll

@@ -1,0 +1,28 @@
+Entity 7.15.0
+Entity.Tools 7.15.0
+Pomelo 7.0.0
+Newtonsoft.Json
+
+Package Console Manager: (syntax help) (GUI Nézetbe)
+Scaffold-DbContext "Server=localhost;Database=ingatlan;Uid=root;Pwd=;" Pomelo.EntityFrameworkCore.MySql -OutputDir Models
+
+
+npm install -g @angular/cli@17
+https://nodejs.org/en/download/prebuilt-installer/current
+
+
+vs code ext:
+
+Angular Language Service
+Thunder Client
+Auto Close Tag
+Auto Rename Tag
+DotENV
+npm Intellisense
+Path Intellisense
+Prettify JSON
+vscode-pets
+
+
+
+npx json-server --watch 512KB.json

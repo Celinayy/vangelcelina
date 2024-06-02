@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "T:\\slo\\13F C#\\20240410_Journeys\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00C0D04D-A1DA-4B50-82C8-696EA349A28A}|JourneysGUI\\JourneysGUI.csproj|t:\\slo\\13f c#\\20240410_journeys\\journeysgui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C0D04D-A1DA-4B50-82C8-696EA349A28A}|JourneysGUI\\JourneysGUI.csproj|solutionrelative:journeysgui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C0D04D-A1DA-4B50-82C8-696EA349A28A}|JourneysGUI\\JourneysGUI.csproj|t:\\slo\\13f c#\\20240410_journeys\\journeysgui\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C0D04D-A1DA-4B50-82C8-696EA349A28A}|JourneysGUI\\JourneysGUI.csproj|solutionrelative:journeysgui\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C0D04D-A1DA-4B50-82C8-696EA349A28A}|JourneysGUI\\JourneysGUI.csproj|t:\\slo\\13f c#\\20240410_journeys\\journeysgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{00C0D04D-A1DA-4B50-82C8-696EA349A28A}|JourneysGUI\\JourneysGUI.csproj|solutionrelative:journeysgui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C0D04D-A1DA-4B50-82C8-696EA349A28A}|JourneysGUI\\JourneysGUI.csproj|t:\\slo\\13f c#\\20240410_journeys\\journeysgui\\models\\journey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C0D04D-A1DA-4B50-82C8-696EA349A28A}|JourneysGUI\\JourneysGUI.csproj|solutionrelative:journeysgui\\models\\journey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00C0D04D-A1DA-4B50-82C8-696EA349A28A}|JourneysGUI\\JourneysGUI.csproj|t:\\slo\\13f c#\\20240410_journeys\\journeysgui\\models\\utazasokcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00C0D04D-A1DA-4B50-82C8-696EA349A28A}|JourneysGUI\\JourneysGUI.csproj|solutionrelative:journeysgui\\models\\utazasokcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "T:\\slo\\13F C#\\20240410_Journeys\\JourneysGUI\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "JourneysGUI\\Models\\Vehicle.cs",
+              "ToolTip": "T:\\slo\\13F C#\\20240410_Journeys\\JourneysGUI\\Models\\Vehicle.cs",
+              "RelativeToolTip": "JourneysGUI\\Models\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:19:42.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Journey.cs",
+              "DocumentMoniker": "T:\\slo\\13F C#\\20240410_Journeys\\JourneysGUI\\Models\\Journey.cs",
+              "RelativeDocumentMoniker": "JourneysGUI\\Models\\Journey.cs",
+              "ToolTip": "T:\\slo\\13F C#\\20240410_Journeys\\JourneysGUI\\Models\\Journey.cs",
+              "RelativeToolTip": "JourneysGUI\\Models\\Journey.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:18:55.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UtazasokContext.cs",
+              "DocumentMoniker": "T:\\slo\\13F C#\\20240410_Journeys\\JourneysGUI\\Models\\UtazasokContext.cs",
+              "RelativeDocumentMoniker": "JourneysGUI\\Models\\UtazasokContext.cs",
+              "ToolTip": "T:\\slo\\13F C#\\20240410_Journeys\\JourneysGUI\\Models\\UtazasokContext.cs",
+              "RelativeToolTip": "JourneysGUI\\Models\\UtazasokContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:17:50.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "T:\\slo\\13F C#\\20240410_Journeys\\JourneysGUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "JourneysGUI\\MainWindow.xaml",
+              "ToolTip": "T:\\slo\\13F C#\\20240410_Journeys\\JourneysGUI\\MainWindow.xaml",
+              "RelativeToolTip": "JourneysGUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-10T14:09:44.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "T:\\slo\\13F C#\\20240410_Journeys\\JourneysGUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "JourneysGUI\\MainWindow.xaml.cs",
+              "ToolTip": "T:\\slo\\13F C#\\20240410_Journeys\\JourneysGUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "JourneysGUI\\MainWindow.xaml.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwCMAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T14:09:43.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

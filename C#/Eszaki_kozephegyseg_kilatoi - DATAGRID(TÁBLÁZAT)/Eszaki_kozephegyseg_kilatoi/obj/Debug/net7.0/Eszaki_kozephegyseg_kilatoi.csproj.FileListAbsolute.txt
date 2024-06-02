@@ -1,0 +1,17 @@
+C:\Users\Celinay\Desktop\VizsgaMegoldás\1. programozás\Eszaki_kozephegyseg_kilatoi\bin\Debug\net7.0\Eszaki_kozephegyseg_kilatoi.exe
+C:\Users\Celinay\Desktop\VizsgaMegoldás\1. programozás\Eszaki_kozephegyseg_kilatoi\bin\Debug\net7.0\locations.csv
+C:\Users\Celinay\Desktop\VizsgaMegoldás\1. programozás\Eszaki_kozephegyseg_kilatoi\bin\Debug\net7.0\viewpoints.csv
+C:\Users\Celinay\Desktop\VizsgaMegoldás\1. programozás\Eszaki_kozephegyseg_kilatoi\bin\Debug\net7.0\Eszaki_kozephegyseg_kilatoi.deps.json
+C:\Users\Celinay\Desktop\VizsgaMegoldás\1. programozás\Eszaki_kozephegyseg_kilatoi\bin\Debug\net7.0\Eszaki_kozephegyseg_kilatoi.runtimeconfig.json
+C:\Users\Celinay\Desktop\VizsgaMegoldás\1. programozás\Eszaki_kozephegyseg_kilatoi\bin\Debug\net7.0\Eszaki_kozephegyseg_kilatoi.dll
+C:\Users\Celinay\Desktop\VizsgaMegoldás\1. programozás\Eszaki_kozephegyseg_kilatoi\bin\Debug\net7.0\Eszaki_kozephegyseg_kilatoi.pdb
+C:\Users\Celinay\Desktop\VizsgaMegoldás\1. programozás\Eszaki_kozephegyseg_kilatoi\obj\Debug\net7.0\Eszaki_kozephegyseg_kilatoi.csproj.AssemblyReference.cache
+C:\Users\Celinay\Desktop\VizsgaMegoldás\1. programozás\Eszaki_kozephegyseg_kilatoi\obj\Debug\net7.0\Eszaki_kozephegyseg_kilatoi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Celinay\Desktop\VizsgaMegoldás\1. programozás\Eszaki_kozephegyseg_kilatoi\obj\Debug\net7.0\Eszaki_kozephegyseg_kilatoi.AssemblyInfoInputs.cache
+C:\Users\Celinay\Desktop\VizsgaMegoldás\1. programozás\Eszaki_kozephegyseg_kilatoi\obj\Debug\net7.0\Eszaki_kozephegyseg_kilatoi.AssemblyInfo.cs
+C:\Users\Celinay\Desktop\VizsgaMegoldás\1. programozás\Eszaki_kozephegyseg_kilatoi\obj\Debug\net7.0\Eszaki_kozephegyseg_kilatoi.csproj.CoreCompileInputs.cache
+C:\Users\Celinay\Desktop\VizsgaMegoldás\1. programozás\Eszaki_kozephegyseg_kilatoi\obj\Debug\net7.0\Eszaki_kozephegyseg_kilatoi.dll
+C:\Users\Celinay\Desktop\VizsgaMegoldás\1. programozás\Eszaki_kozephegyseg_kilatoi\obj\Debug\net7.0\refint\Eszaki_kozephegyseg_kilatoi.dll
+C:\Users\Celinay\Desktop\VizsgaMegoldás\1. programozás\Eszaki_kozephegyseg_kilatoi\obj\Debug\net7.0\Eszaki_kozephegyseg_kilatoi.pdb
+C:\Users\Celinay\Desktop\VizsgaMegoldás\1. programozás\Eszaki_kozephegyseg_kilatoi\obj\Debug\net7.0\Eszaki_kozephegyseg_kilatoi.genruntimeconfig.cache
+C:\Users\Celinay\Desktop\VizsgaMegoldás\1. programozás\Eszaki_kozephegyseg_kilatoi\obj\Debug\net7.0\ref\Eszaki_kozephegyseg_kilatoi.dll

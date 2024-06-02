@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eszaki_kozephegyseg_kilatoi", ".\Eszaki_kozephegyseg_kilatoi\Eszaki_kozephegyseg_kilatoi.csproj", "{3ABB5E9F-C288-4796-9100-6A901DBC1A20}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eszaki_kozephegyseg_kilatoi_GUI", ".\Eszaki_kozephegyseg_kilatoi_GUI\Eszaki_kozephegyseg_kilatoi_GUI.csproj", "{F32317B5-DE44-4BBE-A5E6-F5BC9823CF4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ABB5E9F-C288-4796-9100-6A901DBC1A20}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ABB5E9F-C288-4796-9100-6A901DBC1A20}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ABB5E9F-C288-4796-9100-6A901DBC1A20}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ABB5E9F-C288-4796-9100-6A901DBC1A20}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F32317B5-DE44-4BBE-A5E6-F5BC9823CF4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F32317B5-DE44-4BBE-A5E6-F5BC9823CF4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F32317B5-DE44-4BBE-A5E6-F5BC9823CF4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F32317B5-DE44-4BBE-A5E6-F5BC9823CF4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC024FC0-B01A-402D-BC52-AC8E5C08B4EC}
+	EndGlobalSection
+EndGlobal
